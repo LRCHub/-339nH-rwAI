@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Imaginary Love",
+  "base_artist": "milet",
+  "createdAt": "2025-12-06T16:20:01.124068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "Rufus Wainwright",
+      "has_synced": true,
+      "path": "select/01_Imaginary_Love_Rufus_Wainwright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "milet",
+      "has_synced": true,
+      "path": "select/02_Imaginary_Love_milet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "Dirty Projectors",
+      "has_synced": false,
+      "path": "select/03_Imaginary_Love_Dirty_Projectors.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "The Dirty Projectors",
+      "has_synced": false,
+      "path": "select/04_Imaginary_Love_The_Dirty_Projectors.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Imaginary Love (Album Version)",
+      "artist": "Rufus Wainwright",
+      "has_synced": true,
+      "path": "select/05_Imaginary_Love_(Album_Version)_Rufus_Wainwright.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "imaginary love story (feat. 初音ミク)",
+      "artist": "Synthion feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/06_imaginary_love_story_(feat._初音ミク)_Synthion_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "imaginary love story",
+      "artist": "Synthion feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_imaginary_love_story_Synthion_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "imaginary love story (feat. 初音ミク)",
+      "artist": "Synthion/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/08_imaginary_love_story_(feat._初音ミク)_Synthion_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "imaginary love story (feat. Hatsune Miku)",
+      "artist": "Synthion",
+      "has_synced": true,
+      "path": "select/09_imaginary_love_story_(feat._Hatsune_Miku)_Synthion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "Jasper Steverlinck",
+      "has_synced": true,
+      "path": "select/10_Imaginary_Love_Jasper_Steverlinck.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "imaginary love story (feat. 初音ミク)",
+      "artist": "Synthion",
+      "has_synced": true,
+      "path": "select/11_imaginary_love_story_(feat._初音ミク)_Synthion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "imaginary love story",
+      "artist": "synthion  hatsune miku",
+      "has_synced": true,
+      "path": "select/12_imaginary_love_story_synthion_hatsune_miku.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Imaginary Love (Radio Edit)",
+      "artist": "Aurosonic",
+      "has_synced": false,
+      "path": "select/13_This_Imaginary_Love_(Radio_Edit)_Aurosonic.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "陳柏宇",
+      "has_synced": true,
+      "path": "select/14_Imaginary_Love_陳柏宇.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "After Hours",
+      "has_synced": true,
+      "path": "select/15_Imaginary_Love_After_Hours.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Imaginary Love",
+      "artist": "Jason Chan",
+      "has_synced": true,
+      "path": "select/16_Imaginary_Love_Jason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "To an Imaginary Love",
+      "artist": "Dirty Projectors",
+      "has_synced": false,
+      "path": "select/17_To_an_Imaginary_Love_Dirty_Projectors.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imaginary Love",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Imaginary_Love_milet.txt"
+    }
+  ]
+}
